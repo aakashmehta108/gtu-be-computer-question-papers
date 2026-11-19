@@ -1,0 +1,1438 @@
+code,name,scheme,sem,session,gtu_url
+110001,Chemistry,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110001.pdf
+110001,Chemistry,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110001.pdf
+110001,Chemistry,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110001.pdf
+110002,Communication Skills,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110002.pdf
+110002,Communication Skills,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110002.pdf
+110002,Communication Skills,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110002.pdf
+110002,Communication Skills,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110002.pdf
+110003,Computer Programming and Utilization,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110003.pdf
+110003,Computer Programming and Utilization,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110003.pdf
+110003,Computer Programming and Utilization,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110003.pdf
+110003,Computer Programming and Utilization,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110003.pdf
+110003,Computer Programming and Utilization,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110003.pdf
+110004,Elements of Civil Engineering,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110004.pdf
+110004,Elements of Civil Engineering,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110004.pdf
+110004,Elements of Civil Engineering,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110004.pdf
+110004,Elements of Civil Engineering,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110004.pdf
+110004,Elements of Civil Engineering,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110004.pdf
+110004,Elements of Civil Engineering,scheme-2008,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/110004.pdf
+110004,Elements of Civil Engineering,scheme-2008,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/110004.pdf
+110005,Elements of Electrical Engineering,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110005.pdf
+110005,Elements of Electrical Engineering,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110005.pdf
+110005,Elements of Electrical Engineering,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110005.pdf
+110005,Elements of Electrical Engineering,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110005.pdf
+110005,Elements of Electrical Engineering,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110005.pdf
+110006,Elements of Mechanical Engineering,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110006.pdf
+110006,Elements of Mechanical Engineering,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110006.pdf
+110006,Elements of Mechanical Engineering,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110006.pdf
+110006,Elements of Mechanical Engineering,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110006.pdf
+110006,Elements of Mechanical Engineering,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110006.pdf
+110006,Elements of Mechanical Engineering,scheme-2008,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/110006.pdf
+110006,Elements of Mechanical Engineering,scheme-2008,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/110006.pdf
+110007,Environmental Studies,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110007.pdf
+110007,Environmental Studies,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110007.pdf
+110007,Environmental Studies,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110007.pdf
+110007,Environmental Studies,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110007.pdf
+110010,Mechanics of Solids,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110010.pdf
+110010,Mechanics of Solids,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110010.pdf
+110010,Mechanics of Solids,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110010.pdf
+110010,Mechanics of Solids,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110010.pdf
+110010,Mechanics of Solids,scheme-2008,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/110010.pdf
+110011,Physics,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110011.pdf
+110011,Physics,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110011.pdf
+110011,Physics,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110011.pdf
+110011,Physics,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110011.pdf
+110011,Physics,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110011.pdf
+110011,Physics,scheme-2008,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/110011.pdf
+110011,Physics,scheme-2008,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/110011.pdf
+110013,Engineering Graphics,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110013.pdf
+110013,Engineering Graphics,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110013.pdf
+110013,Engineering Graphics,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110013.pdf
+110013,Engineering Graphics,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110013.pdf
+110013,Engineering Graphics,scheme-2008,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/110013.pdf
+110013,Engineering Graphics,scheme-2008,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/110013.pdf
+110013,Engineering Graphics,scheme-2008,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/110013.pdf
+110013,Engineering Graphics,scheme-2008,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/110013.pdf
+110013,Engineering Graphics,scheme-2008,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/110013.pdf
+110013,Engineering Graphics,scheme-2008,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/110013.pdf
+110014,Calculus,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110014.pdf
+110014,Calculus,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110014.pdf
+110014,Calculus,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110014.pdf
+110014,Calculus,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110014.pdf
+110014,Calculus,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110014.pdf
+110014,Calculus,scheme-2008,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/110014.pdf
+110014,Calculus,scheme-2008,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/110014.pdf
+110014,Calculus,scheme-2008,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/110014.pdf
+110014,Calculus,scheme-2008,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/110014.pdf
+110015,Vector Calculus and Linear Algebra,scheme-2008,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/110015.pdf
+110015,Vector Calculus and Linear Algebra,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/110015.pdf
+110015,Vector Calculus and Linear Algebra,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/110015.pdf
+110015,Vector Calculus and Linear Algebra,scheme-2008,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/110015.pdf
+110015,Vector Calculus and Linear Algebra,scheme-2008,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/110015.pdf
+110015,Vector Calculus and Linear Algebra,scheme-2008,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/110015.pdf
+110015,Vector Calculus and Linear Algebra,scheme-2008,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/110015.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/130002.pdf
+130002,Advanced Engineering Mathematics,scheme-2008,3,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/130002.pdf
+130701,Digital Logic Design,scheme-2008,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/130701.pdf
+130701,Digital Logic Design,scheme-2008,3,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/130701.pdf
+130701,Digital Logic Design,scheme-2008,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/130701.pdf
+130701,Digital Logic Design,scheme-2008,3,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/130701.pdf
+130701,Digital Logic Design,scheme-2008,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/130701.pdf
+130701,Digital Logic Design,scheme-2008,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/130701.pdf
+130701,Digital Logic Design,scheme-2008,3,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/130701.pdf
+130702,Data and File Structures,scheme-2008,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/130702.pdf
+130702,Data and File Structures,scheme-2008,3,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/130702.pdf
+130702,Data and File Structures,scheme-2008,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/130702.pdf
+130702,Data and File Structures,scheme-2008,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/130702.pdf
+130704,Computer Organization and Architecture,scheme-2008,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/130704.pdf
+130704,Computer Organization and Architecture,scheme-2008,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/130704.pdf
+130704,Computer Organization and Architecture,scheme-2008,3,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/130704.pdf
+131101,Basic Electronics,scheme-2008,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/131101.pdf
+131101,Basic Electronics,scheme-2008,3,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/131101.pdf
+131101,Basic Electronics,scheme-2008,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/131101.pdf
+131101,Basic Electronics,scheme-2008,3,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/131101.pdf
+131101,Basic Electronics,scheme-2008,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/131101.pdf
+131101,Basic Electronics,scheme-2008,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/131101.pdf
+131101,Basic Electronics,scheme-2008,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/131101.pdf
+131101,Basic Electronics,scheme-2008,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/131101.pdf
+140001,Mathematics-IV,scheme-2008,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/140001.pdf
+140001,Mathematics-IV,scheme-2008,4,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/140001.pdf
+140002,Management-I,scheme-2008,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/140002.pdf
+140002,Management-I,scheme-2008,4,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/140002.pdf
+140002,Management-I,scheme-2008,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/140002.pdf
+140002,Management-I,scheme-2008,4,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/140002.pdf
+140002,Management-I,scheme-2008,4,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/140002.pdf
+140002,Management-I,scheme-2008,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/140002.pdf
+140002,Management-I,scheme-2008,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/140002.pdf
+140701,Microprocessor And Interfacing,scheme-2008,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/140701.pdf
+140701,Microprocessor And Interfacing,scheme-2008,4,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/140701.pdf
+140701,Microprocessor And Interfacing,scheme-2008,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/140701.pdf
+140701,Microprocessor And Interfacing,scheme-2008,4,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/140701.pdf
+140701,Microprocessor And Interfacing,scheme-2008,4,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/140701.pdf
+140701,Microprocessor And Interfacing,scheme-2008,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/140701.pdf
+140701,Microprocessor And Interfacing,scheme-2008,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/140701.pdf
+140701,Microprocessor And Interfacing,scheme-2008,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/140701.pdf
+140701,Microprocessor And Interfacing,scheme-2008,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/140701.pdf
+140702,Operating System,scheme-2008,4,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/140702.pdf
+140702,Operating System,scheme-2008,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/140702.pdf
+140702,Operating System,scheme-2008,4,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/140702.pdf
+140703,Object Oriented Analysis Design And Uml,scheme-2008,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/140703.pdf
+140703,Object Oriented Analysis Design And Uml,scheme-2008,4,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/140703.pdf
+140703,Object Oriented Analysis Design And Uml,scheme-2008,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/140703.pdf
+140704,Object Oriented Concepts And Programming,scheme-2008,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/140704.pdf
+140704,Object Oriented Concepts And Programming,scheme-2008,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/140704.pdf
+140705,Object Oriented Programming with C++,scheme-2008,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/140705.pdf
+140705,Object Oriented Programming with C++,scheme-2008,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/140705.pdf
+140705,Object Oriented Programming with C++,scheme-2008,4,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/140705.pdf
+150001,Management - II,scheme-2008,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/150001.pdf
+150001,Management - II,scheme-2008,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/150001.pdf
+150001,Management - II,scheme-2008,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/150001.pdf
+150001,Management - II,scheme-2008,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/150001.pdf
+150001,Management - II,scheme-2008,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/150001.pdf
+150001,Management - II,scheme-2008,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/150001.pdf
+150701,Advance Processors,scheme-2008,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/150701.pdf
+150701,Advance Processors,scheme-2008,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/150701.pdf
+150701,Advance Processors,scheme-2008,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/150701.pdf
+150701,Advance Processors,scheme-2008,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/150701.pdf
+150701,Advance Processors,scheme-2008,5,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/150701.pdf
+150701,Advance Processors,scheme-2008,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/150701.pdf
+150702,Computer Network,scheme-2008,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/150702.pdf
+150702,Computer Network,scheme-2008,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/150702.pdf
+150702,Computer Network,scheme-2008,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/150702.pdf
+150702,Computer Network,scheme-2008,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/150702.pdf
+150702,Computer Network,scheme-2008,5,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/150702.pdf
+150703,Design and Analysis of Algorithms,scheme-2008,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/150703.pdf
+150703,Design and Analysis of Algorithms,scheme-2008,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/150703.pdf
+150703,Design and Analysis of Algorithms,scheme-2008,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/150703.pdf
+150704,Object Oriented Programming With Java,scheme-2008,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/150704.pdf
+150704,Object Oriented Programming With Java,scheme-2008,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/150704.pdf
+150704,Object Oriented Programming With Java,scheme-2008,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/150704.pdf
+150704,Object Oriented Programming With Java,scheme-2008,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/150704.pdf
+150704,Object Oriented Programming With Java,scheme-2008,5,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/150704.pdf
+150704,Object Oriented Programming With Java,scheme-2008,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/150704.pdf
+150704,Object Oriented Programming With Java,scheme-2008,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/150704.pdf
+150706,Visual Basic Applications and Programming,scheme-2008,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/150706.pdf
+150706,Visual Basic Applications and Programming,scheme-2008,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/150706.pdf
+150706,Visual Basic Applications and Programming,scheme-2008,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/150706.pdf
+150706,Visual Basic Applications and Programming,scheme-2008,5,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/150706.pdf
+160701,Software Engineering,scheme-2008,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/160701.pdf
+160701,Software Engineering,scheme-2008,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/160701.pdf
+160701,Software Engineering,scheme-2008,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/160701.pdf
+160701,Software Engineering,scheme-2008,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/160701.pdf
+160702,Information Security,scheme-2008,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/160702.pdf
+160702,Information Security,scheme-2008,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/160702.pdf
+160702,Information Security,scheme-2008,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/160702.pdf
+160702,Information Security,scheme-2008,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/160702.pdf
+160702,Information Security,scheme-2008,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/160702.pdf
+160703,Computer Graphics,scheme-2008,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/160703.pdf
+160703,Computer Graphics,scheme-2008,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/160703.pdf
+160703,Computer Graphics,scheme-2008,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/160703.pdf
+160703,Computer Graphics,scheme-2008,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/160703.pdf
+160703,Computer Graphics,scheme-2008,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/160703.pdf
+160704,Theory Of Computation,scheme-2008,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/160704.pdf
+160704,Theory Of Computation,scheme-2008,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/160704.pdf
+160704,Theory Of Computation,scheme-2008,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/160704.pdf
+160704,Theory Of Computation,scheme-2008,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/160704.pdf
+160704,Theory Of Computation,scheme-2008,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/160704.pdf
+160704,Theory Of Computation,scheme-2008,6,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/160704.pdf
+160704,Theory Of Computation,scheme-2008,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/160704.pdf
+160704,Theory Of Computation,scheme-2008,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/160704.pdf
+160704,Theory Of Computation,scheme-2008,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/160704.pdf
+160705,Web Application Development,scheme-2008,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/160705.pdf
+160705,Web Application Development,scheme-2008,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/160705.pdf
+160705,Web Application Development,scheme-2008,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/160705.pdf
+160705,Web Application Development,scheme-2008,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/160705.pdf
+160706,System Programming,scheme-2008,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/160706.pdf
+160706,System Programming,scheme-2008,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/160706.pdf
+160706,System Programming,scheme-2008,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/160706.pdf
+160706,System Programming,scheme-2008,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/160706.pdf
+170701,Compiler Design,scheme-2008,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/170701.pdf
+170701,Compiler Design,scheme-2008,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/170701.pdf
+170701,Compiler Design,scheme-2008,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/170701.pdf
+170701,Compiler Design,scheme-2008,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/170701.pdf
+170701,Compiler Design,scheme-2008,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/170701.pdf
+170701,Compiler Design,scheme-2008,7,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/170701.pdf
+170703,Advance Java Technology,scheme-2008,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/170703.pdf
+170703,Advance Java Technology,scheme-2008,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/170703.pdf
+170703,Advance Java Technology,scheme-2008,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/170703.pdf
+170703,Advance Java Technology,scheme-2008,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/170703.pdf
+170703,Advance Java Technology,scheme-2008,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/170703.pdf
+170704,Advance Computing,scheme-2008,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/170704.pdf
+170704,Advance Computing,scheme-2008,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/170704.pdf
+170704,Advance Computing,scheme-2008,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/170704.pdf
+170704,Advance Computing,scheme-2008,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/170704.pdf
+170704,Advance Computing,scheme-2008,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/170704.pdf
+170707,Advance .Net Technology,scheme-2008,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/170707.pdf
+170707,Advance .Net Technology,scheme-2008,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/170707.pdf
+170707,Advance .Net Technology,scheme-2008,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/170707.pdf
+170707,Advance .Net Technology,scheme-2008,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/170707.pdf
+170707,Advance .Net Technology,scheme-2008,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/170707.pdf
+170708,Web Data Management,scheme-2008,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/170708.pdf
+170708,Web Data Management,scheme-2008,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/170708.pdf
+170708,Web Data Management,scheme-2008,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/170708.pdf
+170708,Web Data Management,scheme-2008,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/170708.pdf
+180701,Distributed Systems,scheme-2008,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/180701.pdf
+180701,Distributed Systems,scheme-2008,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/180701.pdf
+180701,Distributed Systems,scheme-2008,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/180701.pdf
+180701,Distributed Systems,scheme-2008,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/180701.pdf
+180701,Distributed Systems,scheme-2008,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/180701.pdf
+180701,Distributed Systems,scheme-2008,8,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/180701.pdf
+180701,Distributed Systems,scheme-2008,8,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/180701.pdf
+180701,Distributed Systems,scheme-2008,8,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/180701.pdf
+180702,Parallel Processing,scheme-2008,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/180702.pdf
+180702,Parallel Processing,scheme-2008,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/180702.pdf
+180702,Parallel Processing,scheme-2008,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/180702.pdf
+180702,Parallel Processing,scheme-2008,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/180702.pdf
+180702,Parallel Processing,scheme-2008,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/180702.pdf
+180702,Parallel Processing,scheme-2008,8,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/180702.pdf
+180702,Parallel Processing,scheme-2008,8,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/180702.pdf
+180703,Artificial Intelligence,scheme-2008,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/180703.pdf
+180703,Artificial Intelligence,scheme-2008,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/180703.pdf
+180703,Artificial Intelligence,scheme-2008,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/180703.pdf
+180703,Artificial Intelligence,scheme-2008,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/180703.pdf
+180703,Artificial Intelligence,scheme-2008,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/180703.pdf
+180704,Advance Computer Networks,scheme-2008,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/180704.pdf
+180704,Advance Computer Networks,scheme-2008,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/180704.pdf
+180704,Advance Computer Networks,scheme-2008,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/180704.pdf
+180704,Advance Computer Networks,scheme-2008,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/180704.pdf
+180704,Advance Computer Networks,scheme-2008,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/180704.pdf
+180704,Advance Computer Networks,scheme-2008,8,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/180704.pdf
+180704,Advance Computer Networks,scheme-2008,8,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/180704.pdf
+180704,Advance Computer Networks,scheme-2008,8,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/180704.pdf
+180708,Android Programming,scheme-2008,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/180708.pdf
+180708,Android Programming,scheme-2008,8,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/180708.pdf
+180708,Android Programming,scheme-2008,8,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/180708.pdf
+181605,Service Oriented Computing,scheme-2008,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/181605.pdf
+1990001,Contributor Personality Development,scheme-2008,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/1990001.pdf
+1990001,Contributor Personality Development,scheme-2008,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/1990001.pdf
+2110002,Communication Skills,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110002.pdf
+2110002,Communication Skills,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110002.pdf
+2110002,Communication Skills,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110002.pdf
+2110002,Communication Skills,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110002.pdf
+2110002,Communication Skills,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110002.pdf
+2110002,Communication Skills,scheme-2013,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2110002.pdf
+2110003,Computer Programming And Utilization,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110003.pdf
+2110003,Computer Programming And Utilization,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110003.pdf
+2110003,Computer Programming And Utilization,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110003.pdf
+2110003,Computer Programming And Utilization,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110003.pdf
+2110003,Computer Programming And Utilization,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110003.pdf
+2110003,Computer Programming And Utilization,scheme-2013,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2110003.pdf
+2110003,Computer Programming And Utilization,scheme-2013,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2110003.pdf
+2110005,Elements of Electrical Engineering,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110005.pdf
+2110005,Elements of Electrical Engineering,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110005.pdf
+2110005,Elements of Electrical Engineering,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110005.pdf
+2110005,Elements of Electrical Engineering,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110005.pdf
+2110005,Elements of Electrical Engineering,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110005.pdf
+2110005,Elements of Electrical Engineering,scheme-2013,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2110005.pdf
+2110005,Elements of Electrical Engineering,scheme-2013,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2110005.pdf
+2110005,Elements of Electrical Engineering,scheme-2013,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2110005.pdf
+2110005,Elements of Electrical Engineering,scheme-2013,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2110005.pdf
+2110006,Elements of Mechanical Engineering,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110006.pdf
+2110006,Elements of Mechanical Engineering,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110006.pdf
+2110006,Elements of Mechanical Engineering,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110006.pdf
+2110006,Elements of Mechanical Engineering,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110006.pdf
+2110006,Elements of Mechanical Engineering,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110006.pdf
+2110006,Elements of Mechanical Engineering,scheme-2013,1,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2110006.pdf
+2110006,Elements of Mechanical Engineering,scheme-2013,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2110006.pdf
+2110007,Environmental Studies,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110007.pdf
+2110007,Environmental Studies,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110007.pdf
+2110007,Environmental Studies,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110007.pdf
+2110007,Environmental Studies,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110007.pdf
+2110007,Environmental Studies,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110007.pdf
+2110011,Physics,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2110011.pdf
+2110011,Physics,scheme-2013,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2110011.pdf
+2110013,Engineering Graphics,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110013.pdf
+2110013,Engineering Graphics,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110013.pdf
+2110013,Engineering Graphics,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110013.pdf
+2110013,Engineering Graphics,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110013.pdf
+2110013,Engineering Graphics,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110013.pdf
+2110013,Engineering Graphics,scheme-2013,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2110013.pdf
+2110013,Engineering Graphics,scheme-2013,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2110013.pdf
+2110014,Calculus,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110014.pdf
+2110014,Calculus,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110014.pdf
+2110014,Calculus,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110014.pdf
+2110014,Calculus,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110014.pdf
+2110014,Calculus,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110014.pdf
+2110014,Calculus,scheme-2013,1,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2110014.pdf
+2110014,Calculus,scheme-2013,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2110014.pdf
+2110014,Calculus,scheme-2013,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2110014.pdf
+2110014,Calculus,scheme-2013,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2110014.pdf
+2110014,Calculus,scheme-2013,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2110014.pdf
+2110015,Vector Calculus And Linear Algebra,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110015.pdf
+2110015,Vector Calculus And Linear Algebra,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110015.pdf
+2110015,Vector Calculus And Linear Algebra,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110015.pdf
+2110015,Vector Calculus And Linear Algebra,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110015.pdf
+2110015,Vector Calculus And Linear Algebra,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110015.pdf
+2110015,Vector Calculus And Linear Algebra,scheme-2013,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2110015.pdf
+2110015,Vector Calculus And Linear Algebra,scheme-2013,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2110015.pdf
+2110015,Vector Calculus And Linear Algebra,scheme-2013,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2110015.pdf
+2110016,Basic Electronics,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2110016.pdf
+2110016,Basic Electronics,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2110016.pdf
+2110016,Basic Electronics,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2110016.pdf
+2110016,Basic Electronics,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2110016.pdf
+2110016,Basic Electronics,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2110016.pdf
+2110016,Basic Electronics,scheme-2013,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2110016.pdf
+2110016,Basic Electronics,scheme-2013,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2110016.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2130002.pdf
+2130002,Advance Engineering Mathematics,scheme-2013,3,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/2130002.pdf
+2130004,Engineering Economics and Management,scheme-2013,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2130004.pdf
+2130004,Engineering Economics and Management,scheme-2013,3,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2130004.pdf
+2130004,Engineering Economics and Management,scheme-2013,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2130004.pdf
+2130004,Engineering Economics and Management,scheme-2013,3,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2130004.pdf
+2130004,Engineering Economics and Management,scheme-2013,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2130004.pdf
+2130004,Engineering Economics and Management,scheme-2013,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2130004.pdf
+2130004,Engineering Economics and Management,scheme-2013,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2130004.pdf
+2130702,Data structures,scheme-2013,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2130702.pdf
+2130702,Data structures,scheme-2013,3,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2130702.pdf
+2130702,Data structures,scheme-2013,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2130702.pdf
+2130702,Data structures,scheme-2013,3,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2130702.pdf
+2130702,Data structures,scheme-2013,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2130702.pdf
+2130702,Data structures,scheme-2013,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2130702.pdf
+2130702,Data structures,scheme-2013,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2130702.pdf
+2130703,Database Management Systems,scheme-2013,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2130703.pdf
+2130703,Database Management Systems,scheme-2013,3,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2130703.pdf
+2130703,Database Management Systems,scheme-2013,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2130703.pdf
+2130703,Database Management Systems,scheme-2013,3,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2130703.pdf
+2130703,Database Management Systems,scheme-2013,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2130703.pdf
+2130703,Database Management Systems,scheme-2013,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2130703.pdf
+2131004,Digital Electronics,scheme-2013,3,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2131004.pdf
+2131004,Digital Electronics,scheme-2013,3,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2131004.pdf
+2131004,Digital Electronics,scheme-2013,3,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2131004.pdf
+2131004,Digital Electronics,scheme-2013,3,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2131004.pdf
+2131004,Digital Electronics,scheme-2013,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2131004.pdf
+2131004,Digital Electronics,scheme-2013,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2131004.pdf
+2131004,Digital Electronics,scheme-2013,3,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2131004.pdf
+2131004,Digital Electronics,scheme-2013,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2131004.pdf
+2131004,Digital Electronics,scheme-2013,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2131004.pdf
+2140702,Operating System,scheme-2013,4,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2140702.pdf
+2140702,Operating System,scheme-2013,4,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2140702.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2140705.pdf
+2140705,Object Oriented Programming With C++,scheme-2013,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2140705.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2140706.pdf
+2140706,Numerical and Statistical Methods for Computer Engineering,scheme-2013,4,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2140706.pdf
+2140707,Computer Organization,scheme-2013,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2140707.pdf
+2140707,Computer Organization,scheme-2013,4,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2140707.pdf
+2140709,Computer Networks,scheme-2013,4,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2140709.pdf
+2140709,Computer Networks,scheme-2013,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2140709.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2150003.pdf
+2150003,Institute Elective - Diaster Management,scheme-2013,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2150003.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2150703.pdf
+2150703,Analysis and Design of Algorithms,scheme-2013,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2150703.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2150704.pdf
+2150704,Object Oriented Programming using JAVA,scheme-2013,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2150704.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2150707.pdf
+2150707,Microprocessor and Interfacing,scheme-2013,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2150707.pdf
+2150708,System Programming,scheme-2013,5,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2150708.pdf
+2150708,System Programming,scheme-2013,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2150708.pdf
+2160701,Software Engineering,scheme-2013,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2160701.pdf
+2160701,Software Engineering,scheme-2013,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2160701.pdf
+2160703,Computer Graphics,scheme-2013,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2160703.pdf
+2160703,Computer Graphics,scheme-2013,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2160703.pdf
+2160703,Computer Graphics,scheme-2013,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2160703.pdf
+2160703,Computer Graphics,scheme-2013,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2160703.pdf
+2160703,Computer Graphics,scheme-2013,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2160703.pdf
+2160703,Computer Graphics,scheme-2013,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2160703.pdf
+2160703,Computer Graphics,scheme-2013,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2160703.pdf
+2160703,Computer Graphics,scheme-2013,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2160703.pdf
+2160703,Computer Graphics,scheme-2013,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2160703.pdf
+2160704,Theory of Computation,scheme-2013,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2160704.pdf
+2160704,Theory of Computation,scheme-2013,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2160704.pdf
+2160707,Advanced Java,scheme-2013,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2160707.pdf
+2160707,Advanced Java,scheme-2013,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2160707.pdf
+2160708,Web Technology,scheme-2013,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2160708.pdf
+2160708,Web Technology,scheme-2013,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2160708.pdf
+2160709,Embedded & VLSI Design,scheme-2013,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2160709.pdf
+2160709,Embedded & VLSI Design,scheme-2013,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2160709.pdf
+2160709,Embedded & VLSI Design,scheme-2013,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2160709.pdf
+2160710,Distributed operating system,scheme-2013,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2160710.pdf
+2160710,Distributed operating system,scheme-2013,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2160710.pdf
+2160711,.Net Technology,scheme-2013,6,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2160711.pdf
+2160711,.Net Technology,scheme-2013,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/2160711.pdf
+2170701,Compiler Design,scheme-2013,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2170701.pdf
+2170701,Compiler Design,scheme-2013,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/2170701.pdf
+2170709,Information and Network Security,scheme-2013,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2170709.pdf
+2170709,Information and Network Security,scheme-2013,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/2170709.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2170710.pdf
+2170710,Mobile Computing and Wireless Communication,scheme-2013,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/2170710.pdf
+2170712,Image Processing,scheme-2013,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2170712.pdf
+2170712,Image Processing,scheme-2013,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2170712.pdf
+2170712,Image Processing,scheme-2013,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2170712.pdf
+2170712,Image Processing,scheme-2013,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2170712.pdf
+2170712,Image Processing,scheme-2013,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2170712.pdf
+2170712,Image Processing,scheme-2013,7,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2170712.pdf
+2170712,Image Processing,scheme-2013,7,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2170712.pdf
+2170712,Image Processing,scheme-2013,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2170712.pdf
+2170712,Image Processing,scheme-2013,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2170712.pdf
+2170712,Image Processing,scheme-2013,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2170712.pdf
+2170713,Service Oriented Computing,scheme-2013,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2170713.pdf
+2170713,Service Oriented Computing,scheme-2013,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2170713.pdf
+2170714,Distributed DBMS,scheme-2013,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2170714.pdf
+2170714,Distributed DBMS,scheme-2013,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2170714.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/2170715.pdf
+2170715,Data Mining and Business Intelligence,scheme-2013,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/2170715.pdf
+2180703,Artificial Intelligence,scheme-2013,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2180703.pdf
+2180703,Artificial Intelligence,scheme-2013,8,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2180703.pdf
+2180709,IOT and Applications,scheme-2013,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2180709.pdf
+2180709,IOT and Applications,scheme-2013,8,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2180709.pdf
+2180710,Big Data Analytics,scheme-2013,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2180710.pdf
+2180710,Big Data Analytics,scheme-2013,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2180710.pdf
+2180710,Big Data Analytics,scheme-2013,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2180710.pdf
+2180710,Big Data Analytics,scheme-2013,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2180710.pdf
+2180710,Big Data Analytics,scheme-2013,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2180710.pdf
+2180710,Big Data Analytics,scheme-2013,8,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2180710.pdf
+2180711,Python Programming,scheme-2013,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/2180711.pdf
+2180711,Python Programming,scheme-2013,8,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/2180711.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2180712.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2180712.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2180712.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2180712.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2180712.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/2180712.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/2180712.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/2180712.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2180712.pdf
+2180712,Cloud Infrastructure and Services,scheme-2013,8,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/2180712.pdf
+2180713,Web data Management,scheme-2013,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2180713.pdf
+2180713,Web data Management,scheme-2013,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2180713.pdf
+2180713,Web data Management,scheme-2013,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2180713.pdf
+2180713,Web data Management,scheme-2013,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2180713.pdf
+2180713,Web data Management,scheme-2013,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2180713.pdf
+2180713,Web data Management,scheme-2013,8,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/2180713.pdf
+2180713,Web data Management,scheme-2013,8,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/2180713.pdf
+2180714,iOS Programming,scheme-2013,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2180714.pdf
+2180714,iOS Programming,scheme-2013,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2180714.pdf
+2180714,iOS Programming,scheme-2013,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2180714.pdf
+2180714,iOS Programming,scheme-2013,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2180714.pdf
+2180714,iOS Programming,scheme-2013,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2180714.pdf
+2180715,Android Programming,scheme-2013,8,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2180715.pdf
+2180715,Android Programming,scheme-2013,8,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2180715.pdf
+2180715,Android Programming,scheme-2013,8,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2180715.pdf
+2180715,Android Programming,scheme-2013,8,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2180715.pdf
+2180715,Android Programming,scheme-2013,8,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2180715.pdf
+2990001,Contributor Personality Development,scheme-2013,1,W2017,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2017/BE/2990001.pdf
+2990001,Contributor Personality Development,scheme-2013,1,S2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2018/BE/2990001.pdf
+2990001,Contributor Personality Development,scheme-2013,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/2990001.pdf
+2990001,Contributor Personality Development,scheme-2013,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/2990001.pdf
+2990001,Contributor Personality Development,scheme-2013,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/2990001.pdf
+3110001,Chemistry,scheme-2018-19,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110001.pdf
+3110001,Chemistry,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110001.pdf
+3110002,English,scheme-2018-19,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110002.pdf
+3110002,English,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110002.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110003.pdf
+3110003,Programming for Problem Solving,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110003.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110005.pdf
+3110005,Basic Electrical Engineering,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110005.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110006.pdf
+3110006,Basic Mechanical Engineering,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110006.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110007.pdf
+3110007,Environmental Sciences,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110007.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110013.pdf
+3110013,Engineering Graphics & Design,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110013.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110014.pdf
+3110014,Mathematics - 1,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110014.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110015.pdf
+3110015,Mathematics - 2,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110015.pdf
+3110016,Basic Electronics,scheme-2018-19,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110016.pdf
+3110016,Basic Electronics,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110016.pdf
+3110018,Physics,scheme-2018-19,1,W2018,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2018/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,S2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2019/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3110018.pdf
+3110018,Physics,scheme-2018-19,1,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3110018.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3130004.pdf
+3130004,Effective Technical Communication,scheme-2018-19,3,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3130004.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3130006.pdf
+3130006,Probability and Statistics,scheme-2018-19,3,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3130006.pdf
+3130007,Indian Constitution,scheme-2018-19,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3130007.pdf
+3130007,Indian Constitution,scheme-2018-19,3,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3130007.pdf
+3130702,Data Structures,scheme-2018-19,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3130702.pdf
+3130702,Data Structures,scheme-2018-19,3,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3130702.pdf
+3130703,Database Management Systems,scheme-2018-19,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3130703.pdf
+3130703,Database Management Systems,scheme-2018-19,3,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3130703.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,W2019,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2019/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3130704.pdf
+3130704,Digital Fundamentals,scheme-2018-19,3,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3130704.pdf
+3140702,Operating System,scheme-2018-19,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3140702.pdf
+3140702,Operating System,scheme-2018-19,4,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3140702.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3140705.pdf
+3140705,Object Oriented Programming -I,scheme-2018-19,4,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3140705.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3140707.pdf
+3140707,Computer Organization & Architecture,scheme-2018-19,4,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3140707.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3140708.pdf
+3140708,Discrete Mathematics,scheme-2018-19,4,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3140708.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,S2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2020/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3140709.pdf
+3140709,Principles of Economics and Management,scheme-2018-19,4,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3140709.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3150004.pdf
+3150004,Contributor Personality Development Program,scheme-2018-19,5,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3150004.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3150005.pdf
+3150005,Integrated Personality Development Course,scheme-2018-19,5,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3150005.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3150703.pdf
+3150703,Analysis and Design of Algorithms,scheme-2018-19,5,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3150703.pdf
+3150709,Professional ethics,scheme-2018-19,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3150709.pdf
+3150709,Professional ethics,scheme-2018-19,5,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3150709.pdf
+3150710,Computer Networks,scheme-2018-19,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3150710.pdf
+3150710,Computer Networks,scheme-2018-19,5,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3150710.pdf
+3150711,Software Engineering,scheme-2018-19,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3150711.pdf
+3150711,Software Engineering,scheme-2018-19,5,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3150711.pdf
+3150712,Computer Graphics,scheme-2018-19,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3150712.pdf
+3150712,Computer Graphics,scheme-2018-19,5,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3150712.pdf
+3150713,Python for Data Science,scheme-2018-19,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3150713.pdf
+3150713,Python for Data Science,scheme-2018-19,5,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3150713.pdf
+3150714,Cyber Security,scheme-2018-19,5,W2020,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2020/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,S2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2021/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3150714.pdf
+3150714,Cyber Security,scheme-2018-19,5,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3150714.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3160002.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160002.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160002.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160002.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160002.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160002.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160002.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160002.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160002.pdf
+3160002,Contributor Personality Development Program,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160002.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3160003.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160003.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160003.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160003.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160003.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160003.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160003.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160003.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160003.pdf
+3160003,Integrated Personality Development Course,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160003.pdf
+3160704,Theory of Computation,scheme-2018-19,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3160704.pdf
+3160704,Theory of Computation,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160704.pdf
+3160704,Theory of Computation,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160704.pdf
+3160704,Theory of Computation,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160704.pdf
+3160704,Theory of Computation,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160704.pdf
+3160704,Theory of Computation,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160704.pdf
+3160704,Theory of Computation,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160704.pdf
+3160704,Theory of Computation,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160704.pdf
+3160704,Theory of Computation,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160704.pdf
+3160704,Theory of Computation,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160704.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3160707.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160707.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160707.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160707.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160707.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160707.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160707.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160707.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160707.pdf
+3160707,Advanced Java Programming,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160707.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3160712.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160712.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160712.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160712.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160712.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160712.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160712.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160712.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160712.pdf
+3160712,Microprocessor and Interfacing,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160712.pdf
+3160713,Web Programming,scheme-2018-19,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3160713.pdf
+3160713,Web Programming,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160713.pdf
+3160713,Web Programming,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160713.pdf
+3160713,Web Programming,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160713.pdf
+3160713,Web Programming,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160713.pdf
+3160713,Web Programming,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160713.pdf
+3160713,Web Programming,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160713.pdf
+3160713,Web Programming,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160713.pdf
+3160713,Web Programming,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160713.pdf
+3160713,Web Programming,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160713.pdf
+3160714,Data Mining,scheme-2018-19,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3160714.pdf
+3160714,Data Mining,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160714.pdf
+3160714,Data Mining,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160714.pdf
+3160714,Data Mining,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160714.pdf
+3160714,Data Mining,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160714.pdf
+3160714,Data Mining,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160714.pdf
+3160714,Data Mining,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160714.pdf
+3160714,Data Mining,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160714.pdf
+3160714,Data Mining,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160714.pdf
+3160714,Data Mining,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160714.pdf
+3160715,System Software,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160715.pdf
+3160715,System Software,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160715.pdf
+3160715,System Software,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160715.pdf
+3160715,System Software,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160715.pdf
+3160715,System Software,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160715.pdf
+3160715,System Software,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160715.pdf
+3160715,System Software,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160715.pdf
+3160715,System Software,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160715.pdf
+3160715,System Software,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160715.pdf
+3160716,IOT and applications,scheme-2018-19,6,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3160716.pdf
+3160716,IOT and applications,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160716.pdf
+3160716,IOT and applications,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160716.pdf
+3160716,IOT and applications,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160716.pdf
+3160716,IOT and applications,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160716.pdf
+3160716,IOT and applications,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160716.pdf
+3160716,IOT and applications,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160716.pdf
+3160716,IOT and applications,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160716.pdf
+3160716,IOT and applications,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160716.pdf
+3160716,IOT and applications,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160716.pdf
+3160717,Data Visualization,scheme-2018-19,6,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3160717.pdf
+3160717,Data Visualization,scheme-2018-19,6,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3160717.pdf
+3160717,Data Visualization,scheme-2018-19,6,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3160717.pdf
+3160717,Data Visualization,scheme-2018-19,6,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3160717.pdf
+3160717,Data Visualization,scheme-2018-19,6,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3160717.pdf
+3160717,Data Visualization,scheme-2018-19,6,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3160717.pdf
+3160717,Data Visualization,scheme-2018-19,6,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3160717.pdf
+3160717,Data Visualization,scheme-2018-19,6,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3160717.pdf
+3160717,Data Visualization,scheme-2018-19,6,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3160717.pdf
+3170701,Compiler Design,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170701.pdf
+3170701,Compiler Design,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170701.pdf
+3170701,Compiler Design,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170701.pdf
+3170701,Compiler Design,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170701.pdf
+3170701,Compiler Design,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170701.pdf
+3170701,Compiler Design,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170701.pdf
+3170701,Compiler Design,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170701.pdf
+3170701,Compiler Design,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170701.pdf
+3170701,Compiler Design,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170701.pdf
+3170701,Compiler Design,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170701.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170710.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170710.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170710.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170710.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170710.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170710.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170710.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170710.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170710.pdf
+3170710,Mobile Computing and Wireless Communication,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170710.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170716.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170716.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170716.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170716.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170716.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170716.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170716.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170716.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170716.pdf
+3170716,Artificial Intelligence,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170716.pdf
+3170717,Cloud Computing,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170717.pdf
+3170717,Cloud Computing,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170717.pdf
+3170717,Cloud Computing,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170717.pdf
+3170717,Cloud Computing,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170717.pdf
+3170717,Cloud Computing,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170717.pdf
+3170717,Cloud Computing,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170717.pdf
+3170717,Cloud Computing,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170717.pdf
+3170717,Cloud Computing,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170717.pdf
+3170717,Cloud Computing,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170717.pdf
+3170717,Cloud Computing,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170717.pdf
+3170718,Information Retrieval,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170718.pdf
+3170718,Information Retrieval,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170718.pdf
+3170718,Information Retrieval,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170718.pdf
+3170718,Information Retrieval,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170718.pdf
+3170718,Information Retrieval,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170718.pdf
+3170718,Information Retrieval,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170718.pdf
+3170718,Information Retrieval,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170718.pdf
+3170718,Information Retrieval,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170718.pdf
+3170718,Information Retrieval,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170718.pdf
+3170718,Information Retrieval,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170718.pdf
+3170719,Distributed System,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170719.pdf
+3170719,Distributed System,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170719.pdf
+3170719,Distributed System,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170719.pdf
+3170719,Distributed System,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170719.pdf
+3170719,Distributed System,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170719.pdf
+3170719,Distributed System,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170719.pdf
+3170719,Distributed System,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170719.pdf
+3170719,Distributed System,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170719.pdf
+3170719,Distributed System,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170719.pdf
+3170719,Distributed System,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170719.pdf
+3170720,Information security,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170720.pdf
+3170720,Information security,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170720.pdf
+3170720,Information security,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170720.pdf
+3170720,Information security,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170720.pdf
+3170720,Information security,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170720.pdf
+3170720,Information security,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170720.pdf
+3170720,Information security,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170720.pdf
+3170720,Information security,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170720.pdf
+3170720,Information security,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170720.pdf
+3170720,Information security,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170720.pdf
+3170721,Parallel and Distributed Computing,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170721.pdf
+3170721,Parallel and Distributed Computing,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170721.pdf
+3170721,Parallel and Distributed Computing,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170721.pdf
+3170721,Parallel and Distributed Computing,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170721.pdf
+3170721,Parallel and Distributed Computing,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170721.pdf
+3170721,Parallel and Distributed Computing,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170721.pdf
+3170721,Parallel and Distributed Computing,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170721.pdf
+3170721,Parallel and Distributed Computing,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170721.pdf
+3170721,Parallel and Distributed Computing,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170721.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170722.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170722.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170722.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170722.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170722.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170722.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170722.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170722.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170722.pdf
+3170722,Big Data Analytics,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170722.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170723.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170723.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170723.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170723.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170723.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170723.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170723.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170723.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170723.pdf
+3170723,Natural Language Processing,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170723.pdf
+3170724,Machine Learning,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170724.pdf
+3170724,Machine Learning,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170724.pdf
+3170724,Machine Learning,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170724.pdf
+3170724,Machine Learning,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170724.pdf
+3170724,Machine Learning,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170724.pdf
+3170724,Machine Learning,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170724.pdf
+3170724,Machine Learning,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170724.pdf
+3170724,Machine Learning,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170724.pdf
+3170724,Machine Learning,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170724.pdf
+3170724,Machine Learning,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170724.pdf
+3170725,Digital forensics,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170725.pdf
+3170725,Digital forensics,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170725.pdf
+3170725,Digital forensics,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170725.pdf
+3170725,Digital forensics,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170725.pdf
+3170725,Digital forensics,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170725.pdf
+3170725,Digital forensics,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170725.pdf
+3170725,Digital forensics,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170725.pdf
+3170725,Digital forensics,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170725.pdf
+3170725,Digital forensics,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170725.pdf
+3170725,Digital forensics,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170725.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,W2021,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2021/BE/3170726.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,S2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2022/BE/3170726.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,W2022,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2022/BE/3170726.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,S2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2023/BE/3170726.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,W2023,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2023/BE/3170726.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,S2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2024/BE/3170726.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,W2024,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2024/BE/3170726.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,S2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2025/BE/3170726.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,W2025,https://www.gtu.ac.in/api/v1/question-papers/archive/file/W2025/BE/3170726.pdf
+3170726,Mobile Application Development,scheme-2018-19,7,S2026,https://www.gtu.ac.in/api/v1/question-papers/archive/file/S2026/BE/3170726.pdf
